@@ -1,0 +1,19 @@
+body{
+    background-color: lightblue;
+}
+#logincentre{
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#Loginbtn{
+    color: white;
+    background-color:darkblue;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 5px;
+}
+#roommodule{
+    
+}
